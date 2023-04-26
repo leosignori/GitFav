@@ -52,7 +52,7 @@ body * {
 
 #app {
     max-width: 112rem;
-    margin: 11.5rem 16rem 11.6rem;
+    margin: 11.5rem auto 11.6rem;
 }
 
 header {
